@@ -4,8 +4,8 @@
 
 Two main groups. 
 
-1. Organizers
-2. Coders
+1. [Organizers](https://github.com/orgs/iiitv/teams/club_organizers)
+2. [Coders](https://github.com/orgs/iiitv/teams/club_coders)
 
 Organizers are responsible for managing and coordinating the events.
 
