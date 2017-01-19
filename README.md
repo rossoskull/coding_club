@@ -27,3 +27,7 @@ Coders are responsible for actually doing the (technical) events.
 * Programming Maturity
 * No of programming languages
 * Internship/Professional experience
+
+## Procedure for giving a Workshop/Talk
+
+* Anyone who is interested can give a talk. Speaker must timely send a proposal (with details like topic, target audiennce, duration) to Coder class along with the content. Once approved, Organizers will make the necessary arrangements for the talk.
