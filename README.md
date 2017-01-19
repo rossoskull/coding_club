@@ -7,9 +7,11 @@ Two main groups.
 1. [Organizers](https://github.com/orgs/iiitv/teams/club_organizers)
 2. [Coders](https://github.com/orgs/iiitv/teams/club_coders)
 
-Organizers are responsible for managing and coordinating the events.
+Organizers are responsible for managing and coordinating the events. 
 
-Coders are responsible for actually doing the (technical) events.
+Coders are responsible for actually doing the (technical) events. They are expected to be technically sound and experienced. 
+It should be noted that even people who are not part of Coder class can do events. They will have to send a proposal to do so.
+Read below for more info.
 
 
 ## Components
