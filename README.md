@@ -12,6 +12,13 @@ Organizers are responsible for managing and coordinating the events.
 Coders are responsible for actually doing the (technical) events.
 
 
+## Components
+
+* Workshops and Sessions - See [workshops](https://github.com/iiitv/workshops/) repo for a list of workshops to be organized.
+* Coding contests
+* Hackathons
+
+
 ## Coder quality attributes
 
 * Open Source Work
