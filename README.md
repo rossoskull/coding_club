@@ -29,6 +29,13 @@ Coders are responsible for actually doing the (technical) events.
 * Internship/Professional experience
 
 
+## Procedure for joining Coders team
+
+Send your proposals to Coders team if you think you can be part of 'Coder' class. 
+The proposal should include your assessment in the given attributes.
+Please be descriptive and provide proofs wherever possible.
+
+
 ## Procedure for giving a Workshop/Talk
 
-* Anyone who is interested can give a talk. Speaker must timely send a proposal (with details like topic, target audience, duration) to Coder class along with the content. Once approved, Organizers will make the necessary arrangements for the talk.
+Anyone who is interested can give a talk. Speaker must timely send a proposal (with details like topic, target audience, duration) to Coder class along with the content. Once approved, Organizers will make the necessary arrangements for the talk.
