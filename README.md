@@ -1,5 +1,10 @@
 # Coding Club of IIITV
 
+Forum - http://iiitv.prophpbb.com
+
+Slack - iiitvadodara
+
+
 ## Structure
 
 Two main groups. 
