@@ -11,3 +11,12 @@ It should be noted that even people who are not part of Coder class can do event
 * Provide support to aspiring coders whether online or one-to-one
 * Be active on forum (coming soon!) and help students with doubts
 
+
+## Internal Structure
+
+* One Leader - Right now, leader is @aviaryan
+* Other members
+
+In addition to this, minimum 2 members should be there from 2nd year and minimum 2 members from 1st year. 
+
+If any member of Coder class is in conflict regarding a decision, he should contact the leader.
