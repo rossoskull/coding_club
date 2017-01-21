@@ -2,7 +2,7 @@
 
 Forum - http://iiitv.prophpbb.com
 
-Slack - iiitvadodara
+Slack - https://iiitvadodara.slack.com (Sign up with college email)
 
 
 ## Structure
